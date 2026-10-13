@@ -1,0 +1,5 @@
+interface:
+  display_name: "MiniMax H3 Studio"
+  short_description: "统一规范化、关键帧、多参、分段与音画提示词工作流"
+  default_prompt: "使用 $minimax-h3-studio，把我的想法、脚本、图片、视频或音频素材整理成适合 MiniMax H3 的最佳提示词格式。"
+
